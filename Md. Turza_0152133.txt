@@ -1,0 +1,11 @@
+Name   : Md. Turza
+Address: Bashundhara
+Phone  : 0152133
+Bill   :
+
+item4	tk 400
+item4	tk 400
+item4	tk 400
+item4	tk 400
+
+total:	tk 1600

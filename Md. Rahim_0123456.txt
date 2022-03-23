@@ -1,0 +1,11 @@
+Name   : Md. Rahim
+Address: Aftabnagar, Dhaka
+Phone  : 0123456
+
+Bill   :
+
+item3	tk 300
+item2	tk 200
+item5   tk 500
+
+total:	tk 1000
